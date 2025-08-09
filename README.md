@@ -1,16 +1,29 @@
-## Hi there 👋
+# Merhaba, ben Gürkan Güven! 👋
 
-<!--
-**grkanguven/grkanguven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Ben, Yazılım Mühendisliği son sınıf öğrencisiyim ve yazılım dünyasında kendimi geliştirmeye devam ediyorum. Java ve Spring ekosistemini severek kullanıyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknolojiler & Araçlar
+
+- 💻 **Programlama Dilleri:** Java  
+- ⚙️ **Frameworkler:** Spring, Spring Boot  
+- 🗄️ **Veritabanları:** MSSQL, MySQL  
+- 🐳 **Konteyner Yönetimi:** Docker  
+
+---
+
+## İletişim
+
+- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/gürkan-güven-379081227)  
+- 📧 Email: gurkanguven80@hotmail.com  
+
+---
+
+## Öğrenmeye Devam Ediyorum  
+Yazılım dünyasındaki yenilikleri takip etmeyi ve kendimi her gün geliştirmeyi hedefliyorum.
+
+---
+
+**Teşekkürler!** 🚀
