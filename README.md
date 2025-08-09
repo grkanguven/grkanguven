@@ -1,7 +1,7 @@
 # Merhaba, ben Gürkan Güven! 👋
 
 ## Hakkımda
-Ben, Yazılım Mühendisliği son sınıf öğrencisiyim ve yazılım dünyasında kendimi geliştirmeye devam ediyorum. Java ve Spring ekosistemini severek kullanıyorum.  
+Ben, Yazılım Mühendisliği son sınıf öğrencisiyim ve yazılım dünyasında kendimi geliştirmeye devam ediyorum. Java ve Spring ekosistemi üzerinde severek çalışıyorum.  
 
 ---
 
